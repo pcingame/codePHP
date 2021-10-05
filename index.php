@@ -22,6 +22,8 @@
             display: inline-block;
         }
     </style>
+    <link rel="stylesheet" href="abc.css">
+    <link rel="stylesheet" href="abc1.css">
     <title>Giải phương trình bậc 2</title>
 </head>
 <body>
@@ -73,5 +75,6 @@
 
 ?>
 <h3>Kết quả: <?php echo $result ?></h3>
+<button>Abc</button>
 </body>
 </html>
